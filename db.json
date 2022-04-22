@@ -1,19 +1,25 @@
 {
     "employees": [
       {
-        "ext_id": 1001,
-        "website":"https://www.a1001.com",
-        "num_of_emps": "101"
+        "id": 1,
+        "player_number":"7",
+        "first_name": "MS",
+        "last_name": "Dhoni",
+        "email": "msdhoni@csk.com"
       },
       {
-        "ext_id": 1002,
-        "website":"https://www.a1002.com",
-        "num_of_emps": "102"
+        "id": 2,
+        "player_number":"1",
+        "first_name": "Ambati",
+        "last_name": "Rayudu",
+        "email": "arayudu@csk.com"
       },
       {
-        "ext_id": 1003,
-        "website":"https://www.a1003.com",
-        "num_of_emps": "103"
+        "id": 3,
+        "player_number":"12",
+        "first_name": "Ravindra",
+        "last_name": "Jadeja",
+        "email": "rjadeja@csk.com"
       }
     ]
   }
