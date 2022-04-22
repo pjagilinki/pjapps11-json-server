@@ -1,17 +1,17 @@
 {
     "employees": [
       {
-        "ext_id": 1001,
+        "ext_id": "1001",
         "website":"https://www.a1001.com",
         "num_of_emps": 101
       },
       {
-        "ext_id": 1002,
+        "ext_id": "1002",
         "website":"https://www.a1002.com",
         "num_of_emps": 102
       },
       {
-        "ext_id": 1003,
+        "ext_id": "1003",
         "website":"https://www.a1003.com",
         "num_of_emps": 103
       }
